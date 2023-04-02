@@ -3,7 +3,7 @@ A data visualization project, using SQL and Power BI to create interactive and i
 # Request Status Report
 This dataset explores the requests made by clients of a consultng firm, their location, service type and the request status. 
 ## Data Source
-I came across three datasets namely; request status report, locatons report and service type report on a Data Analyst Whatsapp group. The first mentioned dataset contains the following observations: request number, quotaion amount, paid amount and request status, the second contains request number, province, lon and lat while the last contains request number and service type
+I came across three datasets namely; request status report, locatons report and service type report on a Data Analyst Whatsapp group. The first mentioned dataset contains the following observations: request number, quotaion amount, paid amount and request status, the second contains request number, province, lon and lat while the last contains request number and service type.
 ## Data Manipulation
 I imported all the three datasets into SQL and joined them all using the code 
 ```  SELECT
@@ -23,5 +23,6 @@ JOIN `learned-helper-378420.request.service_type` AS service_type
 4. Deleted duplicates
 5. Saved and imported file into Power BI for analysis and visualization
 ## Data Analysis and Visualization
-### Dashboard 
+### Dashboard
+! [ ] (https://github.com/saintgokex/Requests/blob/main/dashboard.png)
 ## Results
