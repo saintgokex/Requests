@@ -24,5 +24,22 @@ JOIN `learned-helper-378420.request.service_type` AS service_type
 5. Saved and imported file into Power BI for analysis and visualization
 ## Data Analysis and Visualization
 ### Dashboard
-! [ ] (https://github.com/saintgokex/Requests/blob/main/dashboard.png)
-## Results
+![ ](dashboard.png)
+#### Number of requests
+The total number of requests received by the organization within the eleven months is 1152
+#### Average Daily request
+There's a consistent 4 requests per day except on rare occassions, putting the average daily requests at 4.38
+#### Paid Amount by province
+![ ](table.png)
+Over the 12 provinces the firm operates in, it pulled a total amount of $562k over the eleven months period with Riyadh being the most contributing province with $130k
+#### Requests per month
+![ ](https://github.com/saintgokex/Requests/blob/main/request%20by%20month.png)
+Highes number of requests were recorded in April and August, each having a total of 167 and 145 requests respectively. However, highest income was generated in June, January, with April generating the third highest revenue as illustrated below. 
+![ ](https://github.com/saintgokex/Requests/blob/main/paid%20amout%20by%20month.png)
+#### Request Status
+![ ](https://github.com/saintgokex/Requests/blob/main/request%20status.png)
+#### Service Type
+There are more advertising requests than financial, the former made more income than the latter as well, as indicated by the charts
+![ ](https://github.com/saintgokex/Requests/blob/main/analysis%20of%20service%20type.png). 
+### Insights
+- there are a lot of pending and cancelled requests. The high numbers of pending requests is likely the reason for so many cancellations. The firm should improve the rate of completing requests faster. 
